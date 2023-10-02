@@ -1,9 +1,11 @@
 ![slice](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&text=Welcome&fontAlign=70&rotate=13&fontAlignY=25&desc=desc%Hee'sGitHub!%Hee'sGitHub!%Hee'sGitHub!&descAlign=70.&descAlignY=44)
 
 キム　ジョンヒ
-# KIM JONGHEE 🤗 
-<div><h4>初めまして👋</h4><p></p>
-  プログラミングに深い興味を持って、エンジニアへの道を選んだ新人エンジニアです。</div>
+# KIM JONGHEE 🍀
+<h4> 「あせらず、たゆまず、おこたらず」</h4>
+<div>
+私の大好きな言葉です。言葉通りに成長するエンジニアになります。
+</div>
 <br><br>
 
 ## ✍️ Education
